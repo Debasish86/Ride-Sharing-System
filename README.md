@@ -1,0 +1,1 @@
+This is a ride-sharing system developed using Java for backend processing,and advanced data structures like Heap and Graph for efficient ride matching and routing. The system enables users to request rides, match with drivers, and optimize routes in real-time.
